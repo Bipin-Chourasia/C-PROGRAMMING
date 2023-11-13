@@ -17,7 +17,5 @@ int factorial(int n) {
         return 1;
     else
         return n* factorial(n-1) ;
-        factorial(n);
+    factorial(n);
 }
-// Created by bipin on 14-11-2023.
-//
