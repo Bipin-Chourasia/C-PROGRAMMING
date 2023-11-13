@@ -98,7 +98,7 @@
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "cmake-build-debug/Tree recursion.c",
+			"path" : "Head recursion.c",
 			"sourceGroupIndex" : 0
 		}
 	],
