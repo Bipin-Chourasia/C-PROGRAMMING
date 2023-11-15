@@ -49,8 +49,8 @@ cmake_ninja_workdir = C$:/Users/bipin/OneDrive/Documents/GitHub/C-PROGRAMMING/cm
 
 build cmake_object_order_depends_target_C_Programming: phony || CMakeFiles/C_Programming.dir
 
-build CMakeFiles/C_Programming.dir/Tree_recursion.c.obj: C_COMPILER__C_Programming_unscanned_Debug C$:/Users/bipin/OneDrive/Documents/GitHub/C-PROGRAMMING/Tree$ recursion.c || cmake_object_order_depends_target_C_Programming
-  DEP_FILE = CMakeFiles\C_Programming.dir\Tree_recursion.c.obj.d
+build CMakeFiles/C_Programming.dir/Sum_with_beep_sound.c.obj: C_COMPILER__C_Programming_unscanned_Debug C$:/Users/bipin/OneDrive/Documents/GitHub/C-PROGRAMMING/Sum$ with$ beep$ sound.c || cmake_object_order_depends_target_C_Programming
+  DEP_FILE = CMakeFiles\C_Programming.dir\Sum_with_beep_sound.c.obj.d
   FLAGS = -g -std=gnu11 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\C_Programming.dir
   OBJECT_FILE_DIR = CMakeFiles\C_Programming.dir
@@ -63,7 +63,7 @@ build CMakeFiles/C_Programming.dir/Tree_recursion.c.obj: C_COMPILER__C_Programmi
 #############################################
 # Link the executable C_Programming.exe
 
-build C_Programming.exe: C_EXECUTABLE_LINKER__C_Programming_Debug CMakeFiles/C_Programming.dir/Tree_recursion.c.obj
+build C_Programming.exe: C_EXECUTABLE_LINKER__C_Programming_Debug CMakeFiles/C_Programming.dir/Sum_with_beep_sound.c.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\C_Programming.dir
