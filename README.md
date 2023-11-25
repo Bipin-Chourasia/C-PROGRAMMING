@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bipin-chourasia&label=Profile%20views&color=0e75b6&style=flat" alt="bipin-chourasia" /> </p>
 
 - 🌱 I’m currently learning **C Language**
-<p><img align="right" src="C:\Users\bipin\OneDrive\Desktop\PHOTOS\Git profile.gif"><p>
+<p><img align="center" src="C:\Users\bipin\OneDrive\Desktop\PHOTOS\Git profile.gif"><p>
  
 
 <h3 align="left">Connect with me:</h3>
